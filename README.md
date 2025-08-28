@@ -1,39 +1,55 @@
-## Frontend Mentor - QR Code Component Solution
+## Frontend Mentor - QR Code Component
 
-This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H).
+This is a solution to the [qr code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H).
 
 ## Table of contents
 
 - [Overview](#overview)
-  - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
+- [Getting Started](#getting-started)
+  - [Cloning the repository](#cloning-the-repository)
+  - [Installing Dependencies](#installing-dependencies)
+  - [Running the Development Server](#running-the-development-server)
 - [Author](#author)
 
 ## Overview
 
-### Screenshot
-
-![](./screenshot/screenshot.png)
-
 ### Links
 
 - Solution URL: [https://www.frontendmentor.io/solutions/qr-code-component-GYCF_YRYlX](https://www.frontendmentor.io/solutions/qr-code-component-GYCF_YRYlX)
-- Live Site URL: [https://qr-code-component-10.vercel.app/](https://qr-code-component-10.vercel.app/)
 
 ## My process
 
 ### Built with
 
-- React
-- Typescript
-- Tailwind CSS
+- [React](https://react.dev/)
+- [Typescript](https://www.typescriptlang.org/)
+- [Tailwind CSS](https://tailwindcss.com/)
 
-### What I learned
+## Getting Started
 
-In React, we can't use images with regular paths like in HTML. We need to either put them in the public folder or import them from the src folder.
+Follow these steps to get a copy of the project up and running on your local machine.
+
+### Cloning the repository
+
+```sh
+git clone https://github.com/krutagna31/qr-code-component.git
+```
+
+### Installing dependencies
+
+```sh
+cd qr-code-component
+npm install
+```
+
+### Running the development server
+
+```sh
+  npm run dev
+```
 
 ## Author
 
